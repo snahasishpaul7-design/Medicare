@@ -1,0 +1,6 @@
+Card Serial: PHA-07
+Card Title: Restock Medicine
+Description: Design the medicine restocking interface for the Pharmacist to update inventory quantities and manage low-stock medicines.
+Assigned To: Bivinoo
+Role: Pharmacist
+Status: Done

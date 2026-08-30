@@ -1,0 +1,6 @@
+Card Serial: PHA-02
+Card Title: Pharmacist Dashboard
+Description: Design the main dashboard for the Pharmacist to view account details, search medicines, approve prescriptions, and manage stock.
+Assigned To: Bivinoo
+Role: Pharmacist
+Status: Done

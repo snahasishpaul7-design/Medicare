@@ -1,0 +1,6 @@
+Card Serial: PHA-03
+Card Title: Pharmacist Role Selection
+Description: Design the role selection interface where the user can select Pharmacist to access the Pharmacist dashboard.
+Assigned To: Rakib
+Role: Pharmacist
+Status: Done
