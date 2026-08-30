@@ -1,0 +1,6 @@
+Card Serial: PHA-06
+Card Title: Pharmacist Registration
+Description: Design the registration interface for the Pharmacist to create a new MediCare account.
+Assigned To: Samin
+Role: Pharmacist
+Status: Done

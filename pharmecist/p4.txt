@@ -1,0 +1,6 @@
+Card Serial: PHA-04
+Card Title: Pharmacist Login
+Description: Design the login interface for the Pharmacist to securely access their MediCare account.
+Assigned To: Fahim
+Role: Pharmacist
+Status: Done
