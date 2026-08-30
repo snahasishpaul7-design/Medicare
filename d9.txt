@@ -1,0 +1,6 @@
+Card Serial: DEL-09
+Card Title: Create Account (Sign Up)
+Description: Design the account creation interface with sign-up fields (full name, username, email, password) and Google sign-up option.
+Assigned To: Aria
+Role: Delivery Person
+Status: Done

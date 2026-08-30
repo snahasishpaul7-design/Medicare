@@ -1,0 +1,6 @@
+Card Serial: DEL-06
+Card Title: Confirm Handoff (OTP)
+Description: Design the OTP verification screen used to confirm order handoff to the customer.
+Assigned To: santhiya
+Role: Delivery Person
+Status: Done
