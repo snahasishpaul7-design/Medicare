@@ -1,0 +1,6 @@
+Card Serial: SAL-08
+Card Title: Process Order of Tonmoy
+Description: Design the Process Order screen populated with Tonmoy's specific order details as a second worked example of the frame with real data.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do

@@ -1,0 +1,6 @@
+Card Serial: SAL-06
+Card Title: Process Order
+Description: Design the order-processing interface showing the item-packing checklist and status stepper (Paid → Packaging → Processing → Shipped) used to move a paid order into processing.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: Done

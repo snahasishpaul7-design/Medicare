@@ -1,0 +1,6 @@
+Card Serial: SAL-01
+Card Title: How Do You Like To Log In
+Description: Design the entry screen where the Salesperson chooses their preferred sign-in method (username & password, or OTP-based login) before reaching the login form.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do
