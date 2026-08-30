@@ -1,0 +1,6 @@
+Card Serial: DEL-08
+Card Title: Role Selection / Welcome
+Description: Design the welcome screen allowing users to select their role to continue to the appropriate dashboard.
+Assigned To: narmiaat
+Role: Delivery Person
+Status: Done

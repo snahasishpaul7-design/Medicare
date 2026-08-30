@@ -1,0 +1,6 @@
+Card Serial: DEL-07
+Card Title: Delivery Report
+Description: Design the weekly delivery report interface showing delivered count, in-transit count, on-time rate, and recent deliveries.
+Assigned To: mishrat
+Role: Delivery Person
+Status: Done

@@ -1,0 +1,6 @@
+Card Serial: DEL-01
+Card Title: Delivery Login
+Description: Design the login interface for the Delivery Person.
+Assigned To: Maria
+Role: Delivery Person
+Status: Done
