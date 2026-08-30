@@ -1,0 +1,6 @@
+Card Serial: DEL-02
+Card Title: Delivery Dashboard
+Description: Design the dashboard menu for the Delivery Person with navigation to profile, report, deliveries, order status, and security.
+Assigned To: Ma'ariz
+Role: Delivery Person
+Status: Done
