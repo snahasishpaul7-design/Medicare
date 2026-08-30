@@ -1,0 +1,10 @@
+Card Serial: ADM-02
+
+Card Title: Overview
+
+Description:
+Design the Admin overview/dashboard interface for the Pharmacy Medicare system.
+
+Assigned To: Tonmoy paul
+Role: Admin
+Status: Done

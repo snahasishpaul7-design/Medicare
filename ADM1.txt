@@ -1,0 +1,10 @@
+Card Serial: ADM-01
+
+Card Title: Login Page
+
+Description:
+Design the login page for the Admin of the Pharmacy Medicare system.
+
+Assigned To: Tonmoy Paul
+Role: Admin
+Status: Done

@@ -1,0 +1,10 @@
+Card Serial: ADM-06
+
+Card Title: Security
+
+Description:
+Design the security interface for managing security-related settings and access in the Pharmacy Medicare system.
+
+Assigned To: Tonmoy Paul
+Role: Admin
+Status: Done

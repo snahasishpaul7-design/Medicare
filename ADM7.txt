@@ -1,0 +1,10 @@
+Card Serial: ADM-07
+
+Card Title: Staff Enrollment
+
+Description:
+Design the staff enrollment interface for adding and managing staff members in the Pharmacy Medicare system.
+
+Assigned To: Tonmoy Paul
+Role: Admin
+Status: Done
