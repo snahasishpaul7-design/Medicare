@@ -1,0 +1,10 @@
+Card Serial: ADM-03
+
+Card Title: Registration Page
+
+Description:
+Design the registration page for managing user registration in the Pharmacy Medicare system.
+
+Assigned To: Tonmoy paul
+Role: Admin
+Status: Done
