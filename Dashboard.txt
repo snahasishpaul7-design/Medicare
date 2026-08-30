@@ -1,0 +1,3 @@
+CS1 – Dashboard: View your account overview and recent activities.
+Assign to -Puja 
+Role -Customer
