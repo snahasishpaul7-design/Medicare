@@ -1,0 +1,6 @@
+Card Serial: DEL-05
+Card Title: Order Details & Confirm Delivery
+Description: Design the order detail screen showing customer address, phone, and items, with an option to call the customer and confirm delivery.
+Assigned To: Rawza
+Role: Delivery Person
+Status: Done

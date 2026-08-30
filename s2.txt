@@ -1,0 +1,6 @@
+Card Serial: SAL-02
+Card Title: Register
+Description: Design the registration interface for a new Salesperson account, including OTP sent to the registered mobile and a confirmation email.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do

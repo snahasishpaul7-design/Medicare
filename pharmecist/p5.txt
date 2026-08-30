@@ -1,0 +1,6 @@
+Card Serial: PHA-05
+Card Title: Pharmacist My Account
+Description: Design the Pharmacist account interface to view profile details and change the account password.
+Assigned To: Nabila
+Role: Pharmacist
+Status: Done
