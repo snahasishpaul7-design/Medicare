@@ -1,0 +1,10 @@
+Card Serial: ADM-05
+
+Card Title: Prescription Review
+
+Description:
+Design the prescription review interface for the Admin to review prescription-related information.
+
+Assigned To: Tonmoy Paul
+Role: Admin
+Status: Done

@@ -1,0 +1,6 @@
+Card Serial: DEL-03
+Card Title: Delivery My Account
+Description: Design the Delivery Person account interface to view profile details and change the account password.
+Assigned To: Mishal
+Role: Delivery Person
+Status: Done

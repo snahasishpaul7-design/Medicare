@@ -1,0 +1,6 @@
+Card Serial: DEL-04
+Card Title: Today's Delivery Queue
+Description: Design the interface showing the delivery person's assigned orders for the day with drop-off details and status.
+Assigned To: Mishkat
+Role: Delivery Person
+Status: Done

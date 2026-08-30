@@ -1,0 +1,6 @@
+Card Serial: PHA-08
+Card Title: Search Medicine
+Description: Design the medicine search interface for the Pharmacist to check stock availability, view medicine details, and search by medicine name.
+Assigned To: Tanvir
+Role: Pharmacist
+Status: Done

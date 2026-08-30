@@ -1,0 +1,6 @@
+Card Serial: PHA-01
+Card Title: Approve Prescription
+Description: Design the prescription approval interface for the Pharmacist to review and approve customer medicine requests.
+Assigned To: Maria
+Role: Pharmacist
+Status: Done
