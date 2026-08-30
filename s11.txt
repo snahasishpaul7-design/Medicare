@@ -1,0 +1,6 @@
+Card Serial: SAL-11
+Card Title: Delivery Handoff — Customer Notified
+Description: Design the confirmation state of the Delivery Handoff screen after the delivery person has been notified, showing the updated status and confirmation feedback to the Salesperson.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do

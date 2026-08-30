@@ -1,0 +1,6 @@
+Card Serial: SAL-04
+Card Title: Dashboard
+Description: Design the Salesperson's home dashboard showing quick-glance stats (paid pending orders, orders in processing, ready-for-delivery orders, low-stock medicines) with shortcuts into the other four frames.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: Done

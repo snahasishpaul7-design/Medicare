@@ -1,0 +1,6 @@
+Card Serial: SAL-03
+Card Title: Log In
+Description: Design the login interface for the Salesperson, where they enter their username and password to access the portal.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do

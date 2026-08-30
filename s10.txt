@@ -1,0 +1,6 @@
+Card Serial: SAL-10
+Card Title: Delivery Handoff
+Description: Design the screen listing packed orders ready to be handed off, with a Notify Delivery action for each order.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: Done
