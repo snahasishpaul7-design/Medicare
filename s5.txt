@@ -1,0 +1,6 @@
+Card Serial: SAL-05
+Card Title: Medicine Inventory
+Description: Design the medicine search and inventory screen so the Salesperson can look up stock levels and prices while processing a customer's order.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: Done
