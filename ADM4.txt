@@ -1,0 +1,10 @@
+Card Serial: ADM-04
+
+Card Title: Customer Directory
+
+Description:
+Design the customer directory interface for the Admin to view and manage customer information.
+
+Assigned To: Tonmoy Paul
+Role: Admin
+Status: Done
