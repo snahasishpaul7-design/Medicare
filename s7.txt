@@ -1,0 +1,6 @@
+Card Serial: SAL-07
+Card Title: Process Order of Fahim
+Description: Design the Process Order screen populated with Fahim's specific order details (items, quantities, delivery address) as a worked example of the frame with real data.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do

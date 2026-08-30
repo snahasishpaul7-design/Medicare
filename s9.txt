@@ -1,0 +1,6 @@
+Card Serial: SAL-09
+Card Title: Process Order of Shariqah
+Description: Design the Process Order screen populated with Shariqah's specific order details as a third worked example of the frame with real data.
+Assigned To: Mohammad Aqil Shafiyee
+Role: Salesperson
+Status: To Do
